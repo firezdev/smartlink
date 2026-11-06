@@ -1,4 +1,5 @@
 # smartlink
+[![AI-DECLARATION: assist](https://img.shields.io/badge/䷼%20AI--DECLARATION-assist-fef9c3?labelColor=fef9c3)](https://ai-declaration.md)
 
 Софт для операторов компании Neotelecom. Разработан на языке `Dart` + `Flutter`. Пока доступна только [web](192.168.2.112) версия.
 > Сайт находится на стадии Beta разработки, и может содрежать ошибки\баги.
